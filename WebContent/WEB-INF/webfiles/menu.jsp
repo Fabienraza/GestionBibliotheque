@@ -10,6 +10,7 @@
 				<ul class="navbar-nav">
 					<li class="nav-item"><a class="nav-link" href="/1-TD2_Bibliotheque_JEE/newBook"> Ajouter un livre </a></li>
 					<li class="nav-item"><a class="nav-link" href="/1-TD2_Bibliotheque_JEE/supprimerLivre"> Supprimer un livre </a></li>
+					<li class="nav-item"><a class="nav-link" href="/1-TD2_Bibliotheque_JEE/modificationLivre"> Modifier un livre </a></li>
 					<li class="nav-item"><a class="nav-link" href="/1-TD2_Bibliotheque_JEE/listelivres"> Liste des livres </a></li>
 					
 				</ul>
